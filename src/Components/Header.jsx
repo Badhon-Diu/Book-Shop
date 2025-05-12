@@ -1,6 +1,6 @@
 import Search from "./Search";
 import Sort from "./Sort";
-export default function Header({ onSearch }) {
+export default function Header({ onSort, onSearch }) {
   return (
     <>
       <header className="mb-8 lg:mb-10 mx-auto max-w-7xl">
@@ -13,7 +13,7 @@ export default function Header({ onSearch }) {
             <Search onSearch={onSearch}></Search>
           </div>
 
-          <Sort></Sort>
+          <Sort onSort={onSort}></Sort>
         </div>
       </header>
       ;
