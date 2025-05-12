@@ -1,0 +1,66 @@
+[
+  {
+    "title": "JavaScript and jQuery",
+    "author": "Jon Duckett",
+    "price": 62,
+    "rating": 4,
+    "ratingText": "4 Star",
+    "image": "book1.png"
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 45,
+    "rating": 5,
+    "ratingText": "5 Star",
+    "image": "book2.png"
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "price": 38,
+    "rating": 4,
+    "ratingText": "4 Star",
+    "image": "book3.png"
+  },
+  {
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "price": 50,
+    "rating": 4,
+    "ratingText": "4 Star",
+    "image": "book4.png"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "price": 55,
+    "rating": 5,
+    "ratingText": "5 Star",
+    "image": "book5.png"
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "price": 60,
+    "rating": 4,
+    "ratingText": "4 Star",
+    "image": "book6.png"
+  },
+  {
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "price": 58,
+    "rating": 5,
+    "ratingText": "5 Star",
+    "image": "book7.png"
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "price": 40,
+    "rating": 4,
+    "ratingText": "4 Star",
+    "image": "book8.png"
+  }
+]
